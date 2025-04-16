@@ -1,0 +1,3 @@
+This script is for time series EDA analysis of finanacial data. 
+It analyzes price and volatiltiy data from yahoo finance via kalman filters, and ARIMA(0, 1, 0) noise reduction. 
+The script also provides z-scores, bollinger bands, RSI, ATR, and first and second derivatives.
